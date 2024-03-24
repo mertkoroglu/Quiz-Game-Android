@@ -1,0 +1,28 @@
+{
+  "courses":[
+    {
+      "name":"CTIS151",
+      "description":"Introduction to Programming",
+      "detail":"An introduction to programming from both design and programming standpoints. Syntax and semantics of programming languages, programming style, program debugging and testing, data representation, simple arithmetic expressions, decision and control statements, using arrays, introduction to standard libraries, structured and modular programming techniques will be covered using C language",
+      "id":"151"
+    },
+    {
+      "name":"CTIS152",
+      "description":"Algorithms and Data Structures",
+      "detail":"Implementation of abstract data types and structures. Dynamic data structures. Strings, stacks, queues, linked lists, trees and graphs. Multidimensional structures. Recursion. Implementation of basic searching and sorting methods. Binary File I/O.",
+      "id":"152"
+    },
+    {
+      "name":"CTIS221",
+      "description":"Object Oriented Programming",
+      "detail":"Object oriented programming paradigm by focusing on the principal concepts such as objects, classes, encapsulation, modular design and hierarchy between classes, inheritance, polymorphism and abstract classes using Java language. In addition to the principal concepts, some advanced subjects of object oriented programming will be covered such as multi-Frame, Java I/O, file operators, object serialization, Generics, Collections",
+      "id":"221"
+    },
+    {
+      "name":"CTIS255",
+      "description":"Frontend Web Technologies",
+      "detail":"The necessary background information and the technologies to develop and maintain a professional web site. The design and implementation of interactive web pages by using web technologies like HTML, DHTML, CSS, JavaScript and Flash.",
+      "id":"255"
+    }
+  ]
+}
